@@ -1,6 +1,6 @@
 # FlappyBirdAI
 
-This project serves to showcase the creation of a Flappy Bird clone with the ability to use AI. The majority of the game was made using Pygame and NEAT (NeuroEvolution of Augmenting Topologies).
+This project serves to showcase the creation of a Flappy Bird clone with the ability to use AI. The majority of the game was made using [Pygame](https://github.com/pygame/pygame) and [NEAT](https://github.com/CodeReclaimers/neat-python) (NeuroEvolution of Augmenting Topologies).
 
 ## How it Works
 - The config-feedforward.txt file will be used to provide changes to the population amount of birds on the screen at a time and how long the loop/test should run for
